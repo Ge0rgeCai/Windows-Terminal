@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Final Product](#Final Product)
+- [Result](#Result)
 - [Install](#Install)
 - [Beautify](#Beautify)
-- [Configure Scheme](#Configure Scheme)
+- [Scheme](#Scheme)
 
-## Final Product
+## Result
 <img src="./picture/final_product.png" alt="Beautiful Terminal" style="zoom:40%;"/>
 <img src="./picture/final_product2.png" alt="Beautiful Terminal" style="zoom:40%;"/>
 
@@ -66,7 +66,7 @@ Open the terminal Settings:
             	"useAcrylic" : true 
 ```
 
-## Configure Scheme
+## Scheme
 
 ```sh
     "schemes": [        {

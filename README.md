@@ -8,16 +8,16 @@
 - [Scheme](#Scheme)
 
 ## Result
-<img src="./picture/final_product.png" alt="Beautiful Terminal" style="zoom:40%;"/>
-<img src="./picture/final_product2.png" alt="Beautiful Terminal" style="zoom:40%;"/>
+<img src="./picture/final_product.png" alt="Beautiful Terminal" style="zoom:20%;"/>
+<img src="./picture/final_product2.png" alt="Beautiful Terminal" style="zoom:20%;"/>
 
 ## Install
 Download `Windows Terminal` in Mircosoft Store
-<img src="./picture/win_terminal.png" alt="WindowTerminal" style="zoom:67%;" />
+<img src="./picture/win_terminal.png" alt="WindowTerminal" style="zoom:40%;" />
 
 ## Beautify
 Open the terminal Settings:
-<img src="./picture/settings.png" alt="Settings" style="zoom:40%;"/>
+<img src="./picture/settings.png" alt="Settings" style="zoom:20%;"/>
 
 ### Beautify your Cmd:
 
@@ -25,7 +25,7 @@ Open the terminal Settings:
                 "name": "CMD",
                 "commandline": "cmd.exe",
                 "hidden": false,
-				"acrylicOpacity" : 0.5,
+		"acrylicOpacity" : 0.5,
             	"background" : "#000000",  
             	//if you want add picture to background
             	//"backgroundImage" :"path of picture",
@@ -59,7 +59,7 @@ Open the terminal Settings:
             	"cursorShape" : "bar",
             	"fontFace" : "Consolas",
             	"fontSize" : 12,  
-				"historySize" : 9001,
+		"historySize" : 9001,
             	"padding" : "0, 0, 0, 0",
             	"snapOnInput" : true,
             	"startingDirectory" : "%USERPROFILE%",

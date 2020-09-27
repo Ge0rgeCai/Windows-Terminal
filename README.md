@@ -8,16 +8,17 @@
 - [Configure Scheme](#Configure Scheme)
 
 ## Final Product
-<img src="./picture/final_product.png" alt="Beautiful Terminal" style="zoom:40%;"/>
-<img src="./picture/final_product2.png" alt="Beautiful Terminal" style="zoom:40%;"/>
+![](./picture/final_product.png)
+![](./picture/final_product2.png)
 
 ## Install
 Download `Windows Terminal` in Mircosoft Store
-<img src="./picture/win_terminal.png" alt="WindowTerminal" style="zoom:67%;" />
 
+![](./picture/win_terminal.png)
 ## Beautify
 Open the terminal Settings:
-<img src="./picture/settings.png" alt="Settings" style="zoom:40%;"/>
+
+![](./picture/settings.png)
 
 ### Beautify your Cmd:
 

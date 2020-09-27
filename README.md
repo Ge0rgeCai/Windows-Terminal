@@ -2,14 +2,18 @@
 
 ## Table of Contents
 
-- [Final Product](#Final Product)
+- [Result](#Result)
 - [Install](#Install)
 - [Beautify](#Beautify)
-- [Configure Scheme](#Configure Scheme)
+- [Scheme](#Scheme)
 
-## Final Product
+## Result
+
 ![](./picture/final_product.png)
 ![](./picture/final_product2.png)
+
+## Install
+Download `Windows Terminal` in Mircosoft Store
 
 ## Install
 Download `Windows Terminal` in Mircosoft Store
@@ -26,7 +30,7 @@ Open the terminal Settings:
                 "name": "CMD",
                 "commandline": "cmd.exe",
                 "hidden": false,
-				"acrylicOpacity" : 0.5,
+		"acrylicOpacity" : 0.5,
             	"background" : "#000000",  
             	//if you want add picture to background
             	//"backgroundImage" :"path of picture",
@@ -60,14 +64,14 @@ Open the terminal Settings:
             	"cursorShape" : "bar",
             	"fontFace" : "Consolas",
             	"fontSize" : 12,  
-				"historySize" : 9001,
+		"historySize" : 9001,
             	"padding" : "0, 0, 0, 0",
             	"snapOnInput" : true,
             	"startingDirectory" : "%USERPROFILE%",
             	"useAcrylic" : true 
 ```
 
-## Configure Scheme
+## Scheme
 
 ```sh
     "schemes": [        {

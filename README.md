@@ -97,4 +97,4 @@ Open the terminal Settings:
 	        },],
 ```
 
-Restart your terminol
+Restart your terminal
